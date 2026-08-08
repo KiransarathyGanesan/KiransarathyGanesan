@@ -6,7 +6,7 @@
     <a href="https://linkedin.com/in/lokihere/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:loki@lokihere.me" target="_blank">
+    <a href="mailto:kiransarathyganesan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
     </a>
     <a href="https://lokihere.me/" target="_blank">
@@ -14,13 +14,13 @@
     </a>
 </p>
 
-📧 **Email:** `loki@lokihere.me`
+📧 **Email:** `kiransarathyganesan@gmail.com`
 
 ---
 
 ## 🚀 About Me
 
-## Full-Stack Developer | Cybersecurity Expert | AI Enthusiast
+## Full-Stack Developer | AI Enthusiast
 
 🔹 Passionate about building **secure**, **scalable**, and **high-performance** applications across **various domains**, from **cybersecurity** to **AI-driven automation**, **web & mobile apps**, and **cloud computing**.
 
@@ -49,23 +49,15 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Go](https://skillicons.dev/icons?i=go)
 ![Rust](https://skillicons.dev/icons?i=rust)
 
-### **Cybersecurity & Ethical Hacking**
-<p>
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C6A?style=for-the-badge&logo=kali&logoColor=white" alt="Kali Linux" />
-    <img src="https://img.shields.io/badge/Metasploit-3C9A29?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Burp%20Suite-9C1B31?style=for-the-badge&logo=burp&logoColor=white" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
+
 
 ### **Development & Frameworks**
 ![React](https://skillicons.dev/icons?i=react)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![Django](https://skillicons.dev/icons?i=django)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 ### **DevOps & Cloud**
